@@ -159,7 +159,7 @@ The application uses the final fine-tuned MobileNetV2 model for predictions.
 
 The live application link will be added after deployment.
 
-**Live Demo:** Coming soon
+**Live Demo:** https://braintumorclassifier-nlp.streamlit.app/
 
 ---
 
